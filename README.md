@@ -4,6 +4,8 @@
 ### Computación e Informática
 ## PERIODO:
 ### VI periodo
+## EDAD
+### 19
 
 
 
