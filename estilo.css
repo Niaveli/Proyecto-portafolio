@@ -1,32 +1,69 @@
 body{
-    background-color: rgb(214, 186, 197);
-}
-div{
-    text-align: center;
-    height: 300px;
-    font-size: 30;
-    width:600px;
-    background-color: rgb(158, 121, 121);
-    margin-bottom: 2px;
+    background-color: lightpink;
 }
 .caja1{
-    background-color: rgb(236, 220, 228);
-    width: 300px;
-    height: 300px;
+    background-color: rgb(158, 121, 121);
+    width: 620px;
+    height: 320px;
     float: left;
-    text-align: justify;
 }
 .caja2{
-    background-color: rgb(136, 86, 111);
-    width: 300px;
-    height: 300px;
-    text-align: justify;  
+    background-color: rgb(87, 47, 47);
+    width: 280px;
+    height: 320px;
     float: left;
+    text-align: center;
 }
 .caja3{
-    background-color:rgb(155, 109, 109) ;
+    background-color: rgb(231, 219, 219);
     width: 300px;
-    height: 300px;
+    height: 280px;
     float: left;
-    text-align: justify;
+}
+.caja4{
+    background-color: rgb(231, 219, 219);
+    width: 320px;
+    height: 280px;
+    float: left;
+}
+.caja5{
+    background-color: rgb(158, 121, 121);
+    width: 280px;
+    height: 280px;
+    float: left;
+}
+.contenedor{
+    width: 900px;
+    height: 600px;
+    border: black 5px dashed;
+}
+.titulo{
+    text-align: center;
+    font-size: 60px;
+    color: white;
+}
+.carrera{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+.sobremi{
+    color: black;
+    text-align:center;
+}
+.yo{
+    color: black;
+    text-align:  justify;
+}
+.habilidades{
+    color: black;
+    text-align:center;
+}
+.siguiente{
+    color: black;
+    text-align:justify;
+}
+.contacto{
+    text-align: center;
+    color: black;
 }
